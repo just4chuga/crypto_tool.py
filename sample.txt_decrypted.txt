@@ -1,0 +1,2 @@
+This is a sample confidential file for Project 9.
+The file will be encrypted, decrypted and hashed using the tool.
